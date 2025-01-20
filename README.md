@@ -49,8 +49,8 @@ Para configurar e executar o projeto localmente, siga as etapas abaixo:
 ### 5.2. Clonar o Repositório
 
 ```bash
-git clone https://github.com/seu-usuario/flutter-posts-app.git
-cd flutter-posts-app
+git clone https://github.com/FelipeTiLustosa/app_post-flutter.git
+cd app_post-flutter
 ```
 
 ### 5.3. Configurar e Executar
