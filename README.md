@@ -102,4 +102,4 @@ projeto/
 
 ## 8. Link do vídeo explicativo sobre o projeto
 
-[Link do vídeo demonstrativo](https://youtube.com/seu-video)
+[Link do vídeo demonstrativo](https://youtu.be/PNtLkJwJXig)
